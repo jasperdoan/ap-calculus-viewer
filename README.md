@@ -32,3 +32,5 @@ C# - Language used
 ## Author(s)
 Jasper Doan - Lead Developer - View Profile - jasperdoanbusiness@gmail.com
 
+### Full document on subject
+**bit.ly/39gpQr0**
