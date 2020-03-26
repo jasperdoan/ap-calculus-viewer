@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\Advanced PDF viewer\Advanced PDF viewer\bin\Debug\Advanced PDF viewer.exe.config
+C:\Users\ASUS\source\repos\Advanced PDF viewer\Advanced PDF viewer\bin\Debug\Advanced PDF viewer.exe
+C:\Users\ASUS\source\repos\Advanced PDF viewer\Advanced PDF viewer\bin\Debug\Advanced PDF viewer.pdb
+C:\Users\ASUS\source\repos\Advanced PDF viewer\Advanced PDF viewer\obj\Debug\Advanced_PDF_viewer.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Advanced PDF viewer\Advanced PDF viewer\obj\Debug\Advanced PDF viewer.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Advanced PDF viewer\Advanced PDF viewer\obj\Debug\Advanced PDF viewer.exe
+C:\Users\ASUS\source\repos\Advanced PDF viewer\Advanced PDF viewer\obj\Debug\Advanced PDF viewer.pdb
+C:\Users\ASUS\source\repos\Advanced PDF viewer\Advanced PDF viewer\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\ASUS\source\repos\Advanced PDF viewer\Advanced PDF viewer\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ASUS\source\repos\Advanced PDF viewer\Advanced PDF viewer\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\ASUS\source\repos\Advanced PDF viewer\Advanced PDF viewer\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ASUS\source\repos\Advanced PDF viewer\Advanced PDF viewer\obj\Debug\Advanced PDF viewer.csproj.ResolveComReference.cache
+C:\Users\ASUS\source\repos\Advanced PDF viewer\Advanced PDF viewer\obj\Debug\Advanced_PDF_viewer.MainWindow.resources
+C:\Users\ASUS\source\repos\Advanced PDF viewer\Advanced PDF viewer\obj\Debug\Advanced PDF viewer.csprojAssemblyReference.cache
