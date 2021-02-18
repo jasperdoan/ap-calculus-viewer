@@ -30,7 +30,7 @@ C# - Language used
 ▶ 1.2.0 Build 2.0_cjd_final
 
 ## Author(s)
-Jasper Doan - Lead Developer - View Profile - jasperdoanbusiness@gmail.com
+wlux
 
 ### Full document on subject
 **bit.ly/39gpQr0**
