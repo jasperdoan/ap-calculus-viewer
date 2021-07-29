@@ -1,7 +1,7 @@
 # AP Calculus AB PastPapers/Review App
 ![](image.png)
 
-Hello! In the same "For students, By students" spirit, I have started this project to help fellow AP Calculus AB students with their studies, either for upcoming tests or the final AP Exam.
+Hello! In the name "For students, By students" spirit, I have started this project to help fellow AP Calculus AB students with their studies, either for upcoming tests or the final AP Exam.
 
 ## Getting Started
 
