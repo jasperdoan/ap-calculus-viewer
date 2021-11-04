@@ -17,7 +17,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 *Adobe Acrobat*
 > This application uses Adobe Acrobat’s API as a way to view files.
-> You can find and download Adobe Acrobat at https://get.adobe.com/reader/, please download and install the Free Adobe Acrobat, the Adobe Acrobat Pro is not needed to run this application.
+> You can find and download Adobe Acrobat [here](https://get.adobe.com/reader/), please download and install the Free Adobe Acrobat, the Adobe Acrobat Pro is not needed to run this application.
 > You do not need to download Acrobat if you already have it installed.
 
 ## Installing
