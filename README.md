@@ -3,6 +3,9 @@
 
 Hello! In the name "For students, By students" spirit, I have started this project to help fellow AP Calculus AB students with their studies, either for upcoming tests or the final AP Exam.
 
+### Full document on subject
+**bit.ly/39gpQr0**
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine. 
@@ -31,7 +34,4 @@ C# - Language used
 ▶ 1.2.0 Build 2.0_cjd_final
 
 ## Author(s)
-wlux
-
-### Full document on subject
-**bit.ly/39gpQr0**
+Jasper
